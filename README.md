@@ -25,9 +25,9 @@ For example, if you want to use a SCD40 sensor to measure the CO2 level in a roo
 
 ## Images
 
-![Schematic](assets/schematic.svg)
+![Schematic](assets/ESP32_Sheald-schematic.svg)
 
-![Top view](assets/board_3d.png)
+![Top view](assets/ESP32_Sheald-board_3d.png)
 
 ## KiBOT Export
 
@@ -50,7 +50,7 @@ docker run --rm \
     -w /home/kicad/project \
     --env "HOME=/tmp" \
     ghcr.io/inti-cmnb/kicad9_auto_full:latest \
-    kibot -c config.kibot.yaml
+    CONFIG_FILE=project.config.yaml ./scripts/fabrication.sh
 ```
 
 This command uses the `config.kibot.yaml` configuration file to generate production-ready files for PCB manufacturing, including Gerber files, drill data, and component placement information.
@@ -66,15 +66,15 @@ docker run --rm \
     -w /home/kicad/project \
     --env "HOME=/tmp" \
     ghcr.io/inti-cmnb/kicad9_auto_full:latest \
-    kibot -c kibot_assets.kibot.yaml
+    ./scripts/assets.sh --config project.config.yaml
 ```
 
 This command uses the `kibot_assets.kibot.yaml` configuration file to generate documentation images and assets.
 
 ### Configuration Files
 
-- **config.kibot.yaml** - Configuration for production manufacturing files (Gerber, drill files, BoM, etc.)
-- **kibot_assets.kibot.yaml** - Configuration for generating documentation images and assets
+- **scripts/kibot/config.kibot.yaml** - Shared fabrication configuration from the scripts submodule
+- **scripts/kibot/kibot_assets.kibot.yaml** - Shared assets configuration from the scripts submodule
 
 ### Workflow
 
@@ -92,7 +92,7 @@ This ensures that the schematic and board images in the documentation always ref
 
 Production manufacturing files are generated automatically through a GitHub Actions pipeline whenever changes are pushed to the repository:
 
-- The pipeline runs the `config.kibot.yaml` configuration
+- The pipeline runs `CONFIG_FILE=project.config.yaml ./scripts/fabrication.sh`
 - Gerber files, drill data, and other manufacturing files are generated
 - These files are available as build artifacts for download from the Actions tab
 
