@@ -2306,7 +2306,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "SymbolThomas:PIR_SR602"
+		(symbol "ESP32_Shield_Sensor_Symbols:SR602-PIR-Motion-Sensor"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -2365,7 +2365,7 @@
 					)
 				)
 			)
-			(symbol "PIR_SR602_0_1"
+			(symbol "SR602-PIR-Motion-Sensor_0_1"
 				(rectangle
 					(start 2.54 2.54)
 					(end 13.97 -7.62)
@@ -2378,7 +2378,7 @@
 					)
 				)
 			)
-			(symbol "PIR_SR602_1_1"
+			(symbol "SR602-PIR-Motion-Sensor_1_1"
 				(text "SR602"
 					(at 10.922 -6.858 0)
 					(effects
@@ -2444,7 +2444,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "SymbolThomas:U1"
+		(symbol "ESP32_Shield_Sensor_Symbols:HLK-LD2410B-mmWave-Sensor"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -2503,7 +2503,7 @@
 					)
 				)
 			)
-			(symbol "U1_0_1"
+			(symbol "HLK-LD2410B-mmWave-Sensor_0_1"
 				(rectangle
 					(start 0 7.62)
 					(end 27.94 -7.62)
@@ -2516,7 +2516,7 @@
 					)
 				)
 			)
-			(symbol "U1_1_1"
+			(symbol "HLK-LD2410B-mmWave-Sensor_1_1"
 				(text "mmWave\n"
 					(at 14.478 -4.064 0)
 					(effects
@@ -2618,7 +2618,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "ThomasPersolLib:ESP32-S3_zersoBoard"
+		(symbol "ESP32_Shield_Custom_Symbols:ESP32-S3-Zero"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -2677,7 +2677,7 @@
 					)
 				)
 			)
-			(symbol "ESP32-S3_zersoBoard_1_1"
+			(symbol "ESP32-S3-Zero_1_1"
 				(rectangle
 					(start -7.62 16.51)
 					(end 7.62 -19.05)
@@ -8583,7 +8583,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ThomasPersolLib:ESP32-S3_zersoBoard")
+		(lib_id "ESP32_Shield_Custom_Symbols:ESP32-S3-Zero")
 		(at 119.38 66.04 0)
 		(unit 1)
 		(body_style 1)
@@ -8616,7 +8616,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ThomasFootprints:ESP32_S3_zeroBoard"
+		(property "Footprint" "ESP32_Shield_Custom_Footprints:ESP32-S3-Zero"
 			(at 119.38 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -8961,7 +8961,7 @@
 		)
 	)
 	(symbol
-		(lib_id "SymbolThomas:U1")
+		(lib_id "ESP32_Shield_Sensor_Symbols:HLK-LD2410B-mmWave-Sensor")
 		(at 189.23 143.51 0)
 		(unit 1)
 		(body_style 1)
@@ -8994,7 +8994,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LibraryThomas:Unbenannt"
+		(property "Footprint" "ESP32_Shield_Sensor_Footprints:HLK-LD2410B-mmWave-Sensor"
 			(at 189.23 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -9452,7 +9452,7 @@
 		)
 	)
 	(symbol
-		(lib_id "SymbolThomas:PIR_SR602")
+		(lib_id "ESP32_Shield_Sensor_Symbols:SR602-PIR-Motion-Sensor")
 		(at 128.27 21.59 0)
 		(unit 1)
 		(body_style 1)
@@ -9485,7 +9485,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LibraryThomas:PIR_SR602"
+		(property "Footprint" "ESP32_Shield_Sensor_Footprints:SR602-PIR-Motion-Sensor"
 			(at 128.27 21.59 0)
 			(hide yes)
 			(show_name no)

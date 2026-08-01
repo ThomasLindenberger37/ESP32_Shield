@@ -874,7 +874,7 @@
 			)
 		)
 	)
-	(footprint "LibraryThomas:PIR_SR602"
+	(footprint "ESP32_Shield_Sensor_Footprints:SR602-PIR-Motion-Sensor"
 		(layer "F.Cu")
 		(uuid "2abd58f0-ddad-4290-99b7-883b76f548b3")
 		(at 132 93.58)
@@ -1452,7 +1452,7 @@
 			)
 		)
 	)
-	(footprint "LibraryThomas:Unbenannt"
+	(footprint "ESP32_Shield_Sensor_Footprints:HLK-LD2410B-mmWave-Sensor"
 		(layer "F.Cu")
 		(uuid "37e2251e-a75c-4e18-9e66-976567604678")
 		(at 100.5 72.25)
@@ -3533,7 +3533,7 @@
 			)
 		)
 	)
-	(footprint "ThomasFootprints:ESP32_S3_zeroBoard"
+	(footprint "ESP32_Shield_Custom_Footprints:ESP32-S3-Zero"
 		(layer "F.Cu")
 		(uuid "68383871-4630-4173-bc57-285ff417907d")
 		(at 118.87 83.42 90)
