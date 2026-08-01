@@ -49,7 +49,7 @@ docker run --rm \
     -u $(id -u):$(id -g) \
     -w /home/kicad/project \
     --env "HOME=/tmp" \
-    ghcr.io/inti-cmnb/kicad9_auto_full:latest \
+    ghcr.io/inti-cmnb/kicad10_auto_full:latest \
     CONFIG_FILE=project.config.yaml ./scripts/fabrication.sh
 ```
 
@@ -65,7 +65,7 @@ docker run --rm \
     -u $(id -u):$(id -g) \
     -w /home/kicad/project \
     --env "HOME=/tmp" \
-    ghcr.io/inti-cmnb/kicad9_auto_full:latest \
+    ghcr.io/inti-cmnb/kicad10_auto_full:latest \
     ./scripts/assets.sh --config project.config.yaml
 ```
 

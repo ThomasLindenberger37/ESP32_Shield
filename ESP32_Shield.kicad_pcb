@@ -286,7 +286,7 @@
 			(uuid "0398e103-2016-4353-9620-e2f7cd00e526")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.step"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -417,7 +417,7 @@
 			(uuid "2ef2e685-3ba4-4cc2-9895-67b74545a3b8")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.step"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -577,7 +577,7 @@
 			(uuid "aa4c14e4-ffc8-4c47-b6e2-c87b5efb4f45")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Connector.3dshapes/PinHeader_1x03_P2.54mm_Vertical.step"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Connector.3dshapes/PinHeader_1x03_P2.54mm_Vertical.step"
 			(hide yes)
 			(offset
 				(xyz 0 0 0)
@@ -720,7 +720,7 @@
 			(uuid "24f0c80d-5ce1-4374-b020-71cd078fdaf9")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.step"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -862,7 +862,7 @@
 			(uuid "875a5927-12f4-41ee-a28f-999992de5aa8")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.step"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1253,7 +1253,7 @@
 			(uuid "19f1fe98-05b4-4405-bfa9-463e7457f838")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.step"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1439,7 +1439,7 @@
 			(uuid "02d4bebf-3525-4fd2-a7b7-4d0df31958a7")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Connector.3dshapes/PinHeader_1x04_P2.54mm_Vertical.step"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Connector.3dshapes/PinHeader_1x04_P2.54mm_Vertical.step"
 			(hide yes)
 			(offset
 				(xyz 0 0 0)
@@ -1854,7 +1854,7 @@
 			(uuid "19fbb540-d76a-4ed5-8b47-3f2122e05b0c")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Connector.3dshapes/PinHeader_1x02_P2.54mm_Vertical.step"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Connector.3dshapes/PinHeader_1x02_P2.54mm_Vertical.step"
 			(hide yes)
 			(offset
 				(xyz -5 0 0)
@@ -1989,7 +1989,7 @@
 			(uuid "0af1dd7c-676a-47c2-bd88-67233449f558")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Connector.3dshapes/PinHeader_1x02_P2.54mm_Vertical.step"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Connector.3dshapes/PinHeader_1x02_P2.54mm_Vertical.step"
 			(hide yes)
 			(offset
 				(xyz -5 0 0)
@@ -2132,7 +2132,7 @@
 			(uuid "8a8eee36-80e0-482c-b168-0f6937e69b11")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.step"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2318,7 +2318,7 @@
 			(uuid "85ae64d2-9a39-48d7-b310-cf5b77fd3fe1")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Connector.3dshapes/PinHeader_1x04_P2.54mm_Vertical.step"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Connector.3dshapes/PinHeader_1x04_P2.54mm_Vertical.step"
 			(hide yes)
 			(offset
 				(xyz 0 0 0)
@@ -2505,7 +2505,7 @@
 			(uuid "77a70079-737b-45c9-9076-06115b99a685")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Connector.3dshapes/PinHeader_1x04_P2.54mm_Vertical.step"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Connector.3dshapes/PinHeader_1x04_P2.54mm_Vertical.step"
 			(hide yes)
 			(offset
 				(xyz 0 0 0)
@@ -2839,7 +2839,7 @@
 			(uuid "419ca45a-b2b5-442a-b819-552e865f077b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.step"
+		(model "${KICAD10_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2999,7 +2999,7 @@
 			(uuid "d0925f69-7669-4c35-811e-1d64acd050ac")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Connector.3dshapes/PinHeader_1x03_P2.54mm_Vertical.step"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Connector.3dshapes/PinHeader_1x03_P2.54mm_Vertical.step"
 			(hide yes)
 			(offset
 				(xyz 0 0 0)
@@ -3142,7 +3142,7 @@
 			(uuid "d2597e3c-98cd-4461-b38c-a045dbe6cf3e")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.step"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3334,7 +3334,7 @@
 			(uuid "5a7abf03-1126-412b-a0ed-2d7515aa59ca")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0603_1608Metric.step"
+		(model "${KICAD10_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3520,7 +3520,7 @@
 			(uuid "294cd9e0-addd-418f-9b90-006bca476700")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Connector.3dshapes/PinHeader_1x04_P2.54mm_Vertical.step"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Connector.3dshapes/PinHeader_1x04_P2.54mm_Vertical.step"
 			(hide yes)
 			(offset
 				(xyz 0 0 0)
@@ -4020,7 +4020,7 @@
 			(uuid "1ea401cd-07f2-4c32-b989-17c5c16668e8")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Connector.3dshapes/PinHeader_1x03_P2.54mm_Vertical.step"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Connector.3dshapes/PinHeader_1x03_P2.54mm_Vertical.step"
 			(hide yes)
 			(offset
 				(xyz 0 0 0)
@@ -4163,7 +4163,7 @@
 			(uuid "00d06e20-a073-4495-bf1f-56074f1b9bee")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.step"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4305,7 +4305,7 @@
 			(uuid "2c34d7cf-f598-4a0d-bb19-e4aacec1ae5c")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.step"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4687,7 +4687,7 @@
 			(uuid "a823553d-9f2e-4adc-a889-d29c9d97b550")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Package_SO.3dshapes/Toshiba_SOIC-4-6_4.4x3.6mm_P1.27mm.step"
+		(model "${KICAD10_3DMODEL_DIR}/Package_SO.3dshapes/Toshiba_SOIC-4-6_4.4x3.6mm_P1.27mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4829,7 +4829,7 @@
 			(uuid "a63bb446-29cf-4efa-b651-be778c231882")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.step"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4971,7 +4971,7 @@
 			(uuid "f880f4c0-cfbe-4404-a6e9-0df2c5234246")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.step"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5241,7 +5241,7 @@
 			(uuid "c4c20453-c6fa-468d-ad77-c7bd8e4bdf0f")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Connector.3dshapes/Qwiic-Vertical.step"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Connector.3dshapes/Qwiic-Vertical.step"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -5396,7 +5396,7 @@
 			(uuid "23c939fa-9ea2-426b-918a-f52e11e75474")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.step"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5666,7 +5666,7 @@
 			(uuid "11b991fa-37ed-490f-84ca-cb181fce6d3e")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Connector.3dshapes/Qwiic-Vertical.step"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Connector.3dshapes/Qwiic-Vertical.step"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -5852,7 +5852,7 @@
 			(uuid "55f02cd8-8eaa-4581-850c-533066b9c1b0")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Connector.3dshapes/PinHeader_1x04_P2.54mm_Vertical.step"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Connector.3dshapes/PinHeader_1x04_P2.54mm_Vertical.step"
 			(hide yes)
 			(offset
 				(xyz 0 0 0)
@@ -6013,7 +6013,7 @@
 			(uuid "cc77c5b8-e266-4b4e-90f1-bacb13f0a7a6")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Connector.3dshapes/PinHeader_1x03_P2.54mm_Vertical.step"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Connector.3dshapes/PinHeader_1x03_P2.54mm_Vertical.step"
 			(hide yes)
 			(offset
 				(xyz 0 0 0)
@@ -6156,7 +6156,7 @@
 			(uuid "0d8264fe-c1a0-4e7c-83eb-ca40f5be226b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.step"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6477,7 +6477,7 @@
 			(uuid "cc264940-4132-45fc-8b0b-0057d01d14cf")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.step"
+		(model "${KICAD10_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6813,7 +6813,7 @@
 			(uuid "39aeb9c0-b4eb-434f-b285-6df19dbcd1ed")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Connector.3dshapes/PinHeader_1x02_P2.54mm_Vertical.step"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Connector.3dshapes/PinHeader_1x02_P2.54mm_Vertical.step"
 			(hide yes)
 			(offset
 				(xyz -5 0 0)
@@ -7158,7 +7158,7 @@
 			(uuid "e027d799-b354-429e-99ff-2a18b8d1c873")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.step"
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7300,7 +7300,7 @@
 			(uuid "fad5ccd6-3b29-4dd9-bdeb-9e219cf9a8d2")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.step"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7500,7 +7500,7 @@
 			(uuid "b3e85708-c17e-478c-8e7d-5db7c1b8954c")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.step"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7686,7 +7686,7 @@
 			(uuid "965b30f7-ce90-4edb-997f-f3bf68da7fe9")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Connector.3dshapes/PinHeader_1x04_P2.54mm_Vertical.step"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Connector.3dshapes/PinHeader_1x04_P2.54mm_Vertical.step"
 			(hide yes)
 			(offset
 				(xyz 0 0 0)
@@ -7962,7 +7962,7 @@
 			(uuid "e81c2312-e4a9-40ee-a491-3676f0816caf")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Connector.3dshapes/Qwiic-Vertical.step"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Connector.3dshapes/Qwiic-Vertical.step"
 			(offset
 				(xyz 0 1 0)
 			)
@@ -8236,7 +8236,7 @@
 			(uuid "10e8931c-5845-4748-a935-208b2af8d826")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Connector.3dshapes/Qwiic-Vertical.step"
+		(model "${KICAD10_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Connector.3dshapes/Qwiic-Vertical.step"
 			(offset
 				(xyz 0 1 0)
 			)

@@ -10,6 +10,8 @@ python_konsole_history
 # --- Backups (Sehr wichtig!) ---
 # Ignoriert den kompletten Backup-Ordner, den KiCad automatisch anlegt
 *-backups/
+# Ignoriert den lokalen KiCad-History-Ordner
+.history/
 # Ignoriert alle Zip-Dateien (da Backups oft als Zip gespeichert werden)
 *.zip
 

@@ -4,7 +4,7 @@ kibot:
 outputs:
   # 1. GERBER FILES
   - name: 'Gerber'
-    comment: "Gerber files for KiCad 9 project"
+    comment: "Gerber files for KiCad 10 project"
     type: gerber
     dir: 'Fabrication/Gerber'
     options:
